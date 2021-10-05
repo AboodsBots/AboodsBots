@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Aboods
+- 👀 I do pyhton apps / discord bots
+- 🌱 I’m currently learning html , ccs and php
+- 💞️ Making a discord bot at the moment
+- 📫 feel free to DM me on discord : Aboods#0001
